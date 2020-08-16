@@ -2,7 +2,7 @@ const commando = require('discord.js-commando');
 const oneLine = require('common-tags').oneLine;
 const fetch = require('node-fetch');
 const Discord = require('discord.js');
-var giphy_api_key = 'pKPN8dRk3hotBlR6kD06h4qkqcWZO60S';
+var giphy_api_key = 'giphyapikey';
 
 var name = "gif";
 
