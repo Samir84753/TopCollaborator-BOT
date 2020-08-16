@@ -1,5 +1,5 @@
 const fetch = require('node-fetch');
-var tenorAPI = "K091LL6PZ8SH";
+var tenorAPI = "tenorapikey";
 const { Command } = require('discord.js-commando');
 
 module.exports.run= async (bot, message, args) => {
