@@ -2,7 +2,7 @@ const commando = require('discord.js-commando');
 const Discord = require('discord.js');
 var emoji = require("emojilib") // A JSON file containing emoji and their English meanings.
 emoji = emoji.lib;
-var youtube_api_key = 'AIzaSyAJvlHKCX5rYu43YvSFbI4XoPEa9fWEXIw';
+var youtube_api_key = 'youtubeapikey';
 
 var name = "yt";
 
