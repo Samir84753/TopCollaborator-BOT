@@ -2,7 +2,7 @@ const commando = require('discord.js-commando');
 const oneLine = require('common-tags').oneLine;
 const fetch = require('node-fetch');
 const Discord = require('discord.js');
-const wolfram_alpha_id = '93L6RT-JK684VTUUW';
+const wolfram_alpha_id = 'wolframapikey;
 
 var name = "ask"
 
