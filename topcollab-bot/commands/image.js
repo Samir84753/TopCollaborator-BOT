@@ -2,7 +2,7 @@ const commando = require('discord.js-commando');
 const Discord = require('discord.js');
 const oneLine = require('common-tags').oneLine;
 const fetch = require('node-fetch');
-const unsplash_client_id = 'a2ayEAa4r12RNUM00KpuR1Ef6rLWTdjc9bMfuk5RHNA';
+const unsplash_client_id = 'unsplashapikey';
 
 var name = "photo"
 
