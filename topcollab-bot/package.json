@@ -1,0 +1,33 @@
+{
+  "name": "topcollab-bot",
+  "version": "1.0.0",
+  "description": "Top Collaborator BOT",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Samir Maharjan",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.19.2",
+    "cheerio": "^1.0.0-rc.3",
+    "common-tags": "^1.8.0",
+    "discord.js": "^12.2.0",
+    "discord.js-commando": "^0.10.0",
+    "discord.js-musicbot-addon": "^13.9.1",
+    "emojilib": "^2.4.0",
+    "form-data": "^3.0.0",
+    "googleapis": "^58.0.0",
+    "got": "^11.5.2",
+    "https": "^1.0.0",
+    "moment": "^2.27.0",
+    "node-fetch": "^2.6.0",
+    "opusscript": "0.0.7",
+    "random-puppy": "^1.1.0",
+    "request": "^2.88.2",
+    "simple-youtube-api": "^5.2.1",
+    "ytdl-core": "^3.2.1",
+    "ytpl": "^0.2.4",
+    "ytsearcher": "^1.2.2"
+  }
+}
